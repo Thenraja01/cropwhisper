@@ -1,11 +1,10 @@
-
+import Readata from "../pages/dashboard/Readata"
 
 function App() {
-  const [count, setCount] = useState(0)
 
   return (
     <>
-    
+    <Readata />
       <h1>Vite + React</h1>
   
     </>
